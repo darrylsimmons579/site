@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /$
+Allow: /assets/
+Disallow: /admin/
+Disallow: /config/
+Disallow: /secret/
+Disallow: /*?
+
+Sitemap: https://bonusbk.xyz/sitemap.xml
