@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
-   <url>
-      <loc>https://bonusbk.xyz/</loc>
-      <lastmod>2026-07-03</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://bonusbk.xyz/</loc><lastmod>2026-07-03</lastmod><priority>1.0</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/</loc><lastmod>2026-10-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/1xbet-ne-vyvodit-dengi/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/bonus-na-den-rozhdeniya-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/bonus-obygray-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/bonus-sreda-x2-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/bonusnyy-schet-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/bonusy-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/fribety-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/frispiny-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/kak-otygrat-bonus-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/kak-vyvesti-bonus-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/problemy-s-promokodom-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/schastlivaya-pyatnitsa-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/verifikaciya-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/blog/vitrina-promokodov-1xbet/</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bonusbk.xyz/metodika-proverki-promokodov/</loc><lastmod>2026-10-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://bonusbk.xyz/otvetstvennaya-igra/</loc><lastmod>2026-10-04</lastmod><priority>0.6</priority></url>
 </urlset>
